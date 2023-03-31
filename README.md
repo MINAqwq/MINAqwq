@@ -11,4 +11,4 @@
 - DSP
 
 ### Current (Big) Projects
-- Own Compiled Programming Language
+- VST Plugins
