@@ -11,4 +11,4 @@
 - DSP
 
 ### Current (Big) Projects
-- VST Plugins
+- C++ HTTP Backend
