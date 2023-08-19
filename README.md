@@ -1,6 +1,6 @@
 ## Im Mina, 18 years old and currently doing my apprenticeship as Software Developer
 
-### Currently im learning and working with
+### Currently im mostly working with
 - C (mostly C99)
 - C++ (C++20)
 - GAS (X86_64)
@@ -11,4 +11,5 @@
 - DSP
 
 ### Current (Big) Projects
-- C++ HTTP Backend
+- C++ REST API
+- Atari 2600 Emulator
