@@ -2,9 +2,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MINAqwq&show_icons=true&theme=tokyonight)
 
-### Currently im mostly working with
+### At the moment im mostly working with
 - C (C89)
-- GAS (X86/i386)
+- GNU Assembly (x86 & MIPS)
 
 ### Current Projects
-- Minimal Operating System
+- IPC Protcol
+- Animal Forest decompilation
