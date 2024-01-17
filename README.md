@@ -1,6 +1,6 @@
 ## Im Mina, 18 years old and currently doing my apprenticeship as Software Developer
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MINAqwq&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MINAqwq&show_icons=true&theme=tokyonight&&exclude_repo=VR-NetRack)
 
 ### At the moment im mostly working with
 - C (C89)
