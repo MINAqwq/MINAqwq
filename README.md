@@ -5,7 +5,7 @@ ___       ___     __                     ___  ___               __   ___  ___
  ```
 
 # 🏳️‍🌈 MINA 🏴‍☠️
-MINA is an acronym and stands for "fuck javascript"
+MINA is an acronym and stands for "i don't like javascript"
 
 its also my name btw
 
